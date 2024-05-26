@@ -1,6 +1,6 @@
 # PROGIDY_CS_01
 
-                      CAESAR CIPHER ALGORITHM FOR ENCRYPTION AND DECRYPTION 
+CAESAR CIPHER ALGORITHM FOR ENCRYPTION AND DECRYPTION 
 
 The Caesar cipher is a simple encryption technique that was used by Julius Caesar to send secret messages to his allies. It works by shifting the letters in the plaintext message by a certain number of positions, known as the “shift” or “key”.
 
@@ -16,18 +16,18 @@ Here is an example of how to use the Caesar cipher to encrypt the message “HEL
 Write down the plaintext message: HELLO
 Choose a shift value. In this case, we will use a shift of 3.
 Replace each letter in the plaintext message with the letter that is three positions to the right in the alphabet.
-         H becomes K (shift 3 from H)
+  H becomes K (shift 3 from H)
 
-         E becomes H (shift 3 from E)
+  E becomes H (shift 3 from E)
 
-         L becomes O (shift 3 from L)
+  L becomes O (shift 3 from L)
 
-         L becomes O (shift 3 from L)
+  L becomes O (shift 3 from L)
 
 
-         O becomes R (shift 3 from O)
+  O becomes R (shift 3 from O)
 
-      4.The encrypted message is now “KHOOR”.
+  4.The encrypted message is now “KHOOR”.
 
 To decrypt the message, you simply need to shift each letter back by the same number of positions. In this case, you would shift each letter in “KHOOR” back by 3 positions to get the original message, “HELLO”.
  
